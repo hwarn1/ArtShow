@@ -196,8 +196,8 @@ function distanceComplete() {
 			textSize(40);
 			text("Uh oh!", 90, 240);
 			textSize(20);
-			text("You made it to work but left too many papers", 50, 270);
-			text("on the road and your boss fired you!", 50, 295);
+			text("You made it to work but left too many", 40, 270);
+			text("papers on the road and your boss fired you!", 10, 295);
 		}
 		
  //return to street button
